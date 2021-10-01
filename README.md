@@ -1,2 +1,2 @@
 # My-Journal
-Things I've learned so far will be added in the wiki over time
+Things I've learned will be added in the wiki over time
